@@ -21,14 +21,21 @@ This project predicts car prices using machine learning techniques. The dataset 
 
 ### Visualizations:
 #### 1. Linear Regression
+
 - **Training Data**
-  ![Linear Regression - Training Data](path/to/your/image1.png)
+  
+  ![Linear Regression - Training Data](img/1.1.png)
 - **Test Data**
-  ![Linear Regression - Test Data](path/to/your/image2.png)
+  
+  ![Linear Regression - Test Data](img/1.2.png)
 
 #### 2. Lasso Regression
+
 - **Training Data**
-  ![Lasso Regression - Training Data](path/to/your/image3.png)
+  
+  ![Lasso Regression - Training Data](img/2.1.png)
+  
 - **Test Data**
-  ![Lasso Regression - Test Data](path/to/your/image4.png)
+  
+  ![Lasso Regression - Test Data](img/2.2.png)
 
