@@ -18,7 +18,7 @@ This project involves recognizing handwritten alphabets using a Convolutional Ne
 
 #### 3. Accuracy Over Epochs
 - Training and validation accuracy across 5 epochs:
-  ![Accuracy Over Epochs](path/to/your/image3.png)
+  ![Accuracy Over Epochs](img/2.png)
 
 
 ## Saved Model
