@@ -16,7 +16,7 @@ This project predicts hourly energy consumption (in MW) for PJM (Pennsylvania, N
 
 This plot visualizes the energy consumption (`PJME_MW`) over time, showing how it fluctuates across hours, days, and months.
 
-![](energy_consumption_time_series_plot.png)
+![](img/1.png)
 
 ---
 
@@ -24,7 +24,7 @@ This plot visualizes the energy consumption (`PJME_MW`) over time, showing how i
 
 The plot below shows the split between the training and test data. The vertical black dashed line marks the cutoff date between the training and test sets.
 
-![](train_test_split_plot.png)
+![](img/2.png)
 
 ---
 
@@ -32,7 +32,7 @@ The plot below shows the split between the training and test data. The vertical 
 
 This KDE plot shows the distribution of energy consumption for a specific week of the data.
 
-![](energy_distribution_plot.png)
+![](img/3.png)
 
 ---
 
@@ -40,13 +40,12 @@ This KDE plot shows the distribution of energy consumption for a specific week o
 
 These boxplots display the relationship between the `hour` and `month` features and the target variable `PJME_MW`. They help understand how energy consumption varies by time of day and month.
 
-- **MW by Hour**
+- **MW by Hour** and **MW by Month**
 
-![](MW_by_hour_plot.png)
-
-- **MW by Month**
-
-![](MW_by_month_plot.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="img/4.png" width="48%" />
+  <img src="img/4.1.png" width="48%" />
+</div>
 
 ---
 
@@ -54,7 +53,7 @@ These boxplots display the relationship between the `hour` and `month` features 
 
 This plot compares the predicted energy consumption with the actual values from the test set. The blue line represents actual data, while the orange line represents the predicted values.
 
-![](prediction_vs_actual_plot.png)
+![](img/5.png)
 
 ---
 
@@ -62,7 +61,7 @@ This plot compares the predicted energy consumption with the actual values from 
 
 This bar chart shows the importance of different features in predicting energy consumption. Features with higher importance contributed more to the model's decision-making process.
 
-![](feature_importance_plot.png)
+![](img/6.png)
 
 ---
 
@@ -70,7 +69,7 @@ This bar chart shows the importance of different features in predicting energy c
 
 The plot below compares the raw energy consumption data with the predictions made by the model.
 
-![](raw_vs_predictions_plot.png)
+![](img/7.png)
 
 ---
 
@@ -78,8 +77,8 @@ The plot below compares the raw energy consumption data with the predictions mad
 
 This line plot shows the mean absolute error (MAE) per day, highlighting the model's accuracy over time.
 
-![](mae_per_day_plot.png)
+![](img/8.png)
 
-
+---
 
 
