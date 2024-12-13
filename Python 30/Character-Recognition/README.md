@@ -12,17 +12,10 @@ This project involves recognizing handwritten alphabets using a Convolutional Ne
 - **Scikit-learn**
 - **Keras (TensorFlow backend)**
 
-## Dataset [Click here➤ ](/A_Z%20Handwritten%20Data.csv)
-
-## Outputs
-
 #### 3. Accuracy Over Epochs
 - Training and validation accuracy across 5 epochs:
   ![Accuracy Over Epochs](img/2.png)
 
 
-## Saved Model
-- **Model Architecture:** [Click here➤ ](/model.json)
-- **Model Weights:** [Click here➤ ](/model.weights.h5)
 
 
