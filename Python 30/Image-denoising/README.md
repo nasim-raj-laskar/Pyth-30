@@ -32,9 +32,9 @@ The folder includes four projects:
 ## Output Visualization
 
    <div style="display: flex; justify-content: space-between;">
-       <img src="denoising-Basics/images/nosy.png" alt="Noisy Image" width="30%" />
-       <img src="denoising-Basics/images/outputs/denoise2.png" alt="Denoised Image 2" width="30%" />
-       <img src="denoising-Basics/images/outputs/denoise1.png" alt="Denoised Image 1" width="30%" />
+       <img src="denoising-Basics/images/nosy.png" alt="Noisy Image" width="33%" />
+       <img src="denoising-Basics/images/outputs/denoise2.png" alt="Denoised Image 2" width="33%" />
+       <img src="denoising-Basics/images/outputs/denoise1.png" alt="Denoised Image 1" width="33%" />
    </div>
 
 ## Section 2: Denoising on MNIST Dataset
