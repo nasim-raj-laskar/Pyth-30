@@ -13,10 +13,10 @@ This section contains fundamental implementations of various image denoising tec
 
 The folder includes four projects:
 
-1. [**Gaussian Kernel**](Gaussian_kernel.py): Demonstrates the creation of a Gaussian kernel and its visualization.
-2. [**OpenCV Detection**](opencv_denoising.py): Implements denoising techniques such as Gaussian Blur, Median Blur, and Bilateral Filter using OpenCV.
-3. [**Image Denoising**](IMAGE_denosing.py): Utilizes `skimage.restoration` methods for non-local means denoising and applies Gaussian and Median filtering.
-4. [**Edge Detection**](edges_detection.py): Applies the Canny edge detection algorithm to highlight edges in noisy images.
+1. [**Gaussian Kernel**](denoising-Basics/Gaussian_kernel.py): Demonstrates the creation of a Gaussian kernel and its visualization.
+2. [**OpenCV Detection**](denoising-Basics/opencv_denoising.py): Implements denoising techniques such as Gaussian Blur, Median Blur, and Bilateral Filter using OpenCV.
+3. [**Image Denoising**](denoising-Basics/IMAGE_denosing.py): Utilizes `skimage.restoration` methods for non-local means denoising and applies Gaussian and Median filtering.
+4. [**Edge Detection**](denoising-Basics/edges_detection.py): Applies the Canny edge detection algorithm to highlight edges in noisy images.
 
 
 
