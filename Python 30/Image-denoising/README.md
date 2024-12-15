@@ -51,8 +51,7 @@ This project demonstrates the use of a convolutional autoencoder to denoise imag
 
 ---
 
-
-1. **Noisy vs. Denoised Images**:
+**Noisy vs. Denoised Images**:
    - Displays side-by-side comparisons of noisy and denoised images from the test dataset.
      ![](Denoising-on-mnist/plots/mnist_denoising.png)
 ---
