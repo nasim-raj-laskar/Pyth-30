@@ -51,11 +51,8 @@ This project demonstrates the use of a convolutional autoencoder to denoise imag
 
 ---
 
-1. **Training Visualization**:
-   - Plots training and validation loss over epochs.
-     ![](Denoising-on-mnist/plots/loss_curve.png)
 
-2. **Noisy vs. Denoised Images**:
+1. **Noisy vs. Denoised Images**:
    - Displays side-by-side comparisons of noisy and denoised images from the test dataset.
      ![](Denoising-on-mnist/plots/mnist_denoising.png)
 ---
