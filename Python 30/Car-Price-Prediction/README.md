@@ -1,6 +1,6 @@
 # Car Price Prediction Project
 
-## Description
+
 This project predicts car prices using machine learning techniques. The dataset contains details such as fuel type, seller type, transmission type, present price, and more. The models used include Linear Regression and Lasso Regression, evaluated based on R-squared error.
 
 ## Tools and Libraries
