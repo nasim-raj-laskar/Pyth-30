@@ -1,8 +1,7 @@
-# Face Detection Project
+# Face Detection 
 
-## Description
 
-This project demonstrates a basic face detection system using OpenCV. The script uses a Haar Cascade Classifier to detect faces in real-time from a webcam feed. When a face is detected, the system draws a rectangle around it, highlighting the identified face. The webcam captures frames continuously, and the face detection is applied to each frame to identify faces.
+This [project](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Face-detection/project.py) demonstrates a basic face detection system using OpenCV. The script uses a Haar Cascade Classifier to detect faces in real-time from a webcam feed. When a face is detected, the system draws a rectangle around it, highlighting the identified face. The webcam captures frames continuously, and the face detection is applied to each frame to identify faces.
 
 The program runs in a loop, continuously displaying the webcam feed with the detected faces until the user presses the "Esc" key to exit.
 
