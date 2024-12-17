@@ -1,6 +1,6 @@
 # Energy Consumption Prediction using XGBoost
 
-This project predicts hourly energy consumption (in MW) for PJM (Pennsylvania, New Jersey, and Maryland) based on historical data. The dataset contains energy usage information, and through data preprocessing, feature engineering, and model training, the project aims to accurately forecast future energy demand. The model was built using the XGBoost algorithm, which is effective for regression tasks due to its boosting capabilities. The model’s performance is evaluated using evaluation metrics and visualizations.
+This [project](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Energy-Consumption-Forecasting/main.ipynb) predicts hourly energy consumption (in MW) for PJM (Pennsylvania, New Jersey, and Maryland) based on historical [data](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Energy-Consumption-Forecasting/PJME_hourly.csv). The [dataset](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Energy-Consumption-Forecasting/PJME_hourly.csv) contains energy usage information, and through data preprocessing, feature engineering, and model training, the project aims to accurately forecast future energy demand. The model was built using the XGBoost algorithm, which is effective for regression tasks due to its boosting capabilities. The model’s performance is evaluated using evaluation metrics and visualizations.
 
 ## Tools Used
 - **Pandas:** For data manipulation and preprocessing.
