@@ -12,9 +12,10 @@ This project involves recognizing handwritten alphabets using a Convolutional Ne
 - **Scikit-learn**
 - **Keras (TensorFlow backend)**
 
-#### 3. Accuracy Over Epochs
-- Training and validation accuracy across 5 epochs:
-  ![Accuracy Over Epochs](img/2.png)
+## Prediction Visualization
+
+<img src="https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Character-Recognition/img/1.png" alt="Accuracy Graph Example" width="800" />
+
 
 
 
