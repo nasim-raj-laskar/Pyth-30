@@ -10,6 +10,6 @@ This [project](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030
 - **Libraries**:
   - `OpenCV`: Image and video processing for object detection.
   - `imutils`: Simplifying image processing tasks like resizing.
-- **Haar Cascade Classifier**: Pre-trained model for vehicle detection.
+- **Haar Cascade Classifier**: Pre-trained [model](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Vehicle-Tracking/cars.xml) for vehicle detection.
 
 
