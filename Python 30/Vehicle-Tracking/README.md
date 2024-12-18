@@ -13,3 +13,5 @@ This [project](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030
 - **Haar Cascade Classifier**: Pre-trained [model](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Vehicle-Tracking/cars.xml) for vehicle detection.
 
 
+## Output Visualization
+![Watch the demo video](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Vehicle-Tracking/ss.gif)
