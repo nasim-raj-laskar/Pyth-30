@@ -9,7 +9,4 @@ This [project](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030
 - **NumPy**: Used for numerical operations on frames.
 - **Python**: Programming language used for the implementation of the project.
  ## Output Visualization
- <video width="600" controls>
-  <source src="output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Crowd-Counting/output.mp4)
