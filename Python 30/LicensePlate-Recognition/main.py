@@ -12,7 +12,7 @@ def show_image(image, title):
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
-image = cv2.imread('LicensePlate-Recognition/4.jpg')
+image = cv2.imread('LicensePlate-Recognition/3.jpg')
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 canny_edge = cv2.Canny(gray_image, 170, 200)
 
