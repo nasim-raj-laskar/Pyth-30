@@ -1,6 +1,6 @@
 # Movie Review Sentiment Analysis
 
-This project implements a sentiment analysis model for predicting movie review sentiments as either positive or negative using a deep learning approach. The model uses an LSTM (Long Short-Term Memory) architecture to process text data and classify movie reviews into binary sentiment categories.
+This [project](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Sentiment-Analysis/main.ipynb) implements a sentiment analysis model for predicting movie review sentiments as either positive or negative using a deep learning approach. The model uses an LSTM (Long Short-Term Memory) architecture to process text [data](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Sentiment-Analysis/IMDB%20Dataset.csv) and classify movie reviews into binary sentiment categories.
 
 ## Tools Used
 
@@ -12,3 +12,5 @@ This project implements a sentiment analysis model for predicting movie review s
 - **Matplotlib**: Used for plotting training and validation accuracy/loss graphs and confusion matrix.
 - **seaborn**: Used for creating a heatmap of the confusion matrix.
 
+## Output
+![](https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/Sentiment-Analysis/op.png)
