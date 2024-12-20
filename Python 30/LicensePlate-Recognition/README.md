@@ -12,3 +12,9 @@ The workflow begins by preprocessing the input image to enhance features like ed
 - **Tesseract OCR**: A robust OCR tool for extracting text from images, integrated via the `pytesseract` Python library.
 - **Matplotlib**: For visualizing and displaying images with annotations.
 
+# Output Visualization
+
+<p align="center">
+  <img src="https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/LicensePlate-Recognition/img/1.png" alt="Image 1" width="45%">
+  <img src="https://github.com/nasim-raj-laskar/pyth-30/blob/main/Python%2030/LicensePlate-Recognition/img/2.png" alt="Image 2" width="45%">
+</p>
