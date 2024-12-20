@@ -20,7 +20,7 @@ Welcome to my 30 Days of AI/ML Practice Challenge repository! This is a collecti
 14. ### [Label-Reading](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Label-Reading): 🏷️ Extract text labels from images with OCR.
 15. ### [LicensePlate-Recognition](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/LicensePlate-Recognition): 🚘 Recognize license plates from vehicle images.
 16. ### [Moving-object-detection](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Moving-object-detection): 🎥 Identify moving objects in video streams.
-17. ### [Object-Recognition](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Object-Recognition): 📦 Detect and classify objects in images.
+17. ### [Object-Recognition](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Object%20Recognition): 📦 Detect and classify objects in images.
 18. ### [Object-Tracking](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Object-Tracking): 🎯 Track objects in video with real-time algorithms.
 19. ### [Real-Time-Color-Detection](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Real-Time-Color-Detection): 🎨 Identify colors in real-time video streams.
 20. ### [Road-Sign-detection](https://github.com/nasim-raj-laskar/pyth-30/tree/main/Python%2030/Road-Sign-detection): 🚦 Detect and classify road signs for smart systems.
