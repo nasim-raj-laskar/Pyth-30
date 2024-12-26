@@ -44,7 +44,7 @@ These boxplots display the relationship between the `hour` and `month` features 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="img/4.png" width="48%" />
-  <img src="img/4.1.png" width="48%" />
+  <img src="img/download%20(2).png " width="48%" />
 </div>
 
 ---
